@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "814601491195",
+    "firebase_url": "https://the-ks-clinic-default-rtdb.firebaseio.com",
+    "project_id": "the-ks-clinic",
+    "storage_bucket": "the-ks-clinic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814601491195:android:00ecd4bf07aa0eaad9d65e",
+        "android_client_info": {
+          "package_name": "theksclinic.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwS2WqXQMyLLfpL7DXV57Ymt1dsIzxGm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
